@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "387954875379",
+    "project_id": "happy-birthday-f",
+    "storage_bucket": "happy-birthday-f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387954875379:android:d5c6f3a1e9760508d65086",
+        "android_client_info": {
+          "package_name": "com.example.breathin_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387954875379-3kogts9lmqjiq99nogud788ml911ptva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9YRBxJAeL4ZIdncL58ARLD5W5_GTFjto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387954875379-3kogts9lmqjiq99nogud788ml911ptva.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387954875379:android:34613a509e546b47d65086",
+        "android_client_info": {
+          "package_name": "com.mycompany.breathinapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387954875379-3kogts9lmqjiq99nogud788ml911ptva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9YRBxJAeL4ZIdncL58ARLD5W5_GTFjto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387954875379-3kogts9lmqjiq99nogud788ml911ptva.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
